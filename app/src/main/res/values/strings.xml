@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DicodingAndroidPemula</string>
+    <string name="kabinet_name">Nama Kabinet</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string name="email_creator">denipramulia97@gmail.com</string>
+    <string name="name_creator">Deni Pramulia</string>
+    <string name="reference_url">Referensi : https://id.wikipedia.org/wiki/Kabinet_Kerja_I_(Joko_Widodo) </string>
+</resources>
